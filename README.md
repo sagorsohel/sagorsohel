@@ -31,4 +31,7 @@ Seeking a position as an software developer to apply my knowledge of various com
 
 <a href="http://www.github.com/sagorsohel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagorsohel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sagorsohel&title=Profile%20Views)
+
+
 
