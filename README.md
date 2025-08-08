@@ -33,7 +33,8 @@ Seeking a position as an software developer to apply my knowledge of various com
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sagorsohel&title=Profile%20Views)
 
-![My Routine Stats](https://timedesk-backend.onrender.com/api/v1/badge/68925a16e4e2a2fb59d8bd5d)
+![My Routine Stats](https://timedesk-backend.onrender.com/api/v1/badge/68925a16e4e2a2fb59d8bd5d?t=123456789)
+
 
 ![My Routine Graph](https://timedesk-backend.onrender.com/api/v1/badge/graph/68925a16e4e2a2fb59d8bd5d)
 
